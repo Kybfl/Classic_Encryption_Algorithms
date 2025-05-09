@@ -1,0 +1,2 @@
+# Classic_Encryption_Algorithms
+This project is a Windows Forms application that demonstrates classical encryption algorithms. After user authentication through the login screen, the user can select from various algorithms such as Shift, Transposition, Numeric Key, Rail Fence, 4 Square, Linear, Permutation, Rotation, Vigenere, and Hill to encrypt text. Each algorithm has a dedicated interface and supports the Turkish alphabet. The project is developed for educational purposes.
