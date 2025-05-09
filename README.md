@@ -5,9 +5,23 @@ This is a Windows Forms application built with C#, designed to demonstrate vario
 🧩 Features
 
 Login Screen:
+
+![Ekran görüntüsü 2025-05-09 231138](https://github.com/user-attachments/assets/4710e233-783e-4361-8f8e-9b1e5f69ea1a)
+
+
+
+
+
+
   The application starts with a basic login form requiring a username and password. This adds a simple layer of access control before using the main features.
 
-Main Menu:
+
+Main Page:
+![Ekran görüntüsü 2025-05-09 231134](https://github.com/user-attachments/assets/ed88a225-6303-41cf-8ee9-392b02d6213d)
+
+
+
+
   After login, users are greeted with a main menu offering 10 different encryption algorithm options, displayed in a clean and organized layout. Language support (TR/EN) is available for bilingual interaction.
 
 Supported Algorithms:
