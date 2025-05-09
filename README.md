@@ -13,7 +13,7 @@ Login Screen:
 
 
 
-  The application starts with a basic login form requiring a username and password. This adds a simple layer of access control before using the main features.
+  The application starts with a basic login form requiring a username and password. The information of users are located in the file “D:\Projects\Crypto\Cryptology_Project\Cryptology_Project\bin\Debug\net8.0-windows\Accounts.txt”.
 
 
 Main Page:
@@ -68,7 +68,7 @@ Giriş Ekranı:
 
 
 
-  Uygulama kullanıcı adı ve şifre isteyen basit bir giriş ekranıyla başlar. Bu ekran, temel bir erişim kontrolü sağlar.
+  Uygulama kullanıcı adı ve şifre isteyen basit bir giriş ekranıyla başlar. Kayıtlı kişilerin bilgileri "D:\Projects\Crypto\Cryptology_Project\Cryptology_Project\bin\Debug\net8.0-windows\Accounts.txt" dosyasının içinde bulunmaktadır.
 
 
 Ana Menü:
