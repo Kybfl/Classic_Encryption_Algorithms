@@ -59,9 +59,25 @@ Bu proje, klasik şifreleme algoritmalarını görsel arayüz ile tanıtan, C# v
  🧩 Özellikler
 
 Giriş Ekranı:
+
+![Ekran görüntüsü 2025-05-09 231138](https://github.com/user-attachments/assets/4710e233-783e-4361-8f8e-9b1e5f69ea1a)
+
+
+
+
+
+
+
   Uygulama kullanıcı adı ve şifre isteyen basit bir giriş ekranıyla başlar. Bu ekran, temel bir erişim kontrolü sağlar.
 
+
 Ana Menü:
+
+![Ekran görüntüsü 2025-05-09 231134](https://github.com/user-attachments/assets/ed88a225-6303-41cf-8ee9-392b02d6213d)
+
+
+
+
   Giriş sonrası kullanıcıyı, 10 farklı şifreleme algoritmasının bulunduğu şık ve düzenli bir ana ekran karşılar. TR ve EN dil desteği mevcuttur.
 
 Desteklenen Algoritmalar:
